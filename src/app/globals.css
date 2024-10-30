@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-btn {
+  background-color: #FF5733; /* Replace with your desired background color */
+  color: #FFFFFF; /* Replace with your desired text color */
+  border: none; /* Optional: remove border */
+}
+
+.custom-btn:hover {
+  background-color: #C70039; /* Optional: change background color on hover */
+  color: #FFFFFF; /* Optional: change text color on hover */
+}
+
+a{
+  text-decoration: none;
+}
+
